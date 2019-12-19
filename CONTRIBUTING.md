@@ -1,18 +1,12 @@
 # Contributor's Guide
 
-Thanks for your interest in the project! We welcome pull requests from
-developers of all skill levels. To get started, simply fork the master branch
-on GitHub to your personal account and then clone the fork into your
-development environment.
+Thanks for your interest in the project! We welcome pull requests from developers of all skill levels. To get started, simply fork the master branch on GitHub to your personal account and then clone the fork into your development environment.
 
 The core project maintainers are:
 
 * Gregory Mundy, Project Lead (**agileronin** on GH, and **graygoree** and Twitter)
 
-Please don't hesitate to reach out if you have any questions, or just need a
-little help getting started.
-
-Please note that all contributors and maintainers of this project are subject to our [Code of Conduct][coc].
+Feel free to reach out if you have any questions, or just need a little help getting started. Please note that all contributors and maintainers of this project are subject to our [Code of Conduct][coc].
 
 ### Pull Requests
 
