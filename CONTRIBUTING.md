@@ -112,4 +112,4 @@ The footer should contain any information about **Breaking Changes** and is also
 [ajs]: https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#-git-commit-guidelines
 [docstrings]: https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html#example-google-style-python-docstrings
 [rtd]: https://readthedocs.org/
-[coc]: https://github.com/agileronin/repository-template/blob/master/CODEOFCONDUCT.md
+[coc]: https://github.com/agileronin/repository-template/blob/master/CODE_OF_CONDUCT.md
